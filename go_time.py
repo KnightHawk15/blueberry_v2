@@ -14,7 +14,7 @@ from shapely.geometry import shape, Point
 from shapely.geometry import Polygon
 from shapely.ops import cascaded_union
 
-api_key = "API_KEY" #will cost $$: "AIzaSyDwXUnWNc1611m18aL-3GfGamaruf9yD5g"
+api_key = "API_KEY"
 
 my_types = ['accounting', 'airport', 'amusement_park', 'aquarium', 'art_gallery',
          'atm', 'bakery', 'bank', 'bar', 'beauty_salon', 'bicycle_store',
